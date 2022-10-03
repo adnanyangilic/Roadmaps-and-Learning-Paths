@@ -4,7 +4,7 @@
 # Download Roadmap PDFs
 
 Here is the list of PDF links for each of the roadmaps.
-* **DotNet Roadmap** - [Roadmap Link](https://github.com/adnanyangilic/Roadmaps/blob/master/Roadmaps%20images/DotNet%20Developer%202022%20LearningPath.png)
+* **DotNet Roadmap** - [Roadmap Link](https://github.com/adnanyangilic/Roadmaps/blob/master/Roadmaps%20images/DotNet%20Developer%202022%20LearningPath.png) / [Pptx Link](https://github.com/adnanyangilic/Roadmaps/blob/master/Roadmaps%20pdfs/DotNet%20Developer%202022%20learning%20path.pptx)
 * **Frontend Roadmap** - [Roadmap Link](https://roadmap.sh/frontend) / [PDF Link](https://roadmap.sh/pdfs/frontend.pdf)
 * **Backend Roadmap** - [Roadmap Link](https://roadmap.sh/backend) / [PDF Link](https://roadmap.sh/pdfs/backend.pdf)
 * **DevOps Roadmap** - [Roadmap Link](https://roadmap.sh/devops) / [PDF Link](https://roadmap.sh/pdfs/devops.pdf)
