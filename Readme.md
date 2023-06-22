@@ -23,11 +23,11 @@ Here is the list of PDF links for each of the roadmaps.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 # R E A C T   T U T O R I A L   L I N K S
-https://upmostly.com/ultimate-reactjs-cheat-sheet
-https://upmostly.com/tutorials/react-hooks-simple-introduction
-https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/hooks
-https://react.dev/reference/react
-https://legacy.reactjs.org/tutorial/tutorial.html
+* https://upmostly.com/ultimate-reactjs-cheat-sheet
+* https://upmostly.com/tutorials/react-hooks-simple-introduction
+* https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/hooks
+* https://react.dev/reference/react
+* https://legacy.reactjs.org/tutorial/tutorial.html
 https://legacy.reactjs.org/docs/hooks-reference.html
 https://www.w3schools.com/react/react_hooks.asp
 https://blog.logrocket.com/react-hooks-cheat-sheet-solutions-common-problems/
