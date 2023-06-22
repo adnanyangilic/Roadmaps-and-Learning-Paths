@@ -22,7 +22,7 @@ Here is the list of PDF links for each of the roadmaps.
 * **Python Roadmap** - [Roadmap Link](https://roadmap.sh/python) / [PDF Link](https://roadmap.sh/pdfs/python.pdf)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-# R E A C T   T U T O R I A L   L I N K S
+# R E A C T .....  T U T O R I A L .....  L I N K S
 * https://upmostly.com/ultimate-reactjs-cheat-sheet
 * https://upmostly.com/tutorials/react-hooks-simple-introduction
 * https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/hooks
